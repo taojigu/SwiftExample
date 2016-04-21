@@ -1,0 +1,6 @@
+framework module Pods_TestRAC2 {
+  umbrella header "Pods-TestRAC2-umbrella.h"
+
+  export *
+  module * { export * }
+}
